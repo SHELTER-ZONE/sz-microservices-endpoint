@@ -2,11 +2,13 @@
     "prod": {
         "szOauth": "https://szoauth-3-p2062391.deta.app",
         "szUser": "https://szuser-2-w9390482.deta.app",
-        "szUserProfile": "https://szuserprofile-2-c5814032.deta.app"
+        "szUserProfile": "https://szuserprofile-2-c5814032.deta.app",
+        "szDailycheck": "https://szdailycheck-2-n8021929.deta.app"
     },
     "dev": {
         "szOauth": "https://szoauth-1-p2062391.deta.app",
         "szUser": "https://szuser-1-w9390482.deta.app",
-        "szUserProfile": "https://szuserprofile-1-c5814032.deta.app"
+        "szUserProfile": "https://szuserprofile-1-c5814032.deta.app",
+        "szDailycheck": "https://szdailycheck-1-n8021929.deta.app"
     }
 }
